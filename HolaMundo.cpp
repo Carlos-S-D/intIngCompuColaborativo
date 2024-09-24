@@ -1,6 +1,11 @@
 #include <iostream>
+#include <string.h>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hola Mundo\n";
+    char nombre[ ]=" ";
+    printf("escribe tu nombre=> ");
+    gets(nombre);
+    printf("bienvenid@ %s",nombre);
 }
