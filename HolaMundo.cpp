@@ -8,4 +8,5 @@ int main()
     printf("escribe tu nombre=> ");
     gets(nombre);
     printf("bienvenid@ %s",nombre);
+    printf("hola amiguitos")
 }
