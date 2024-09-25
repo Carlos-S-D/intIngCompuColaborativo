@@ -5,8 +5,9 @@
 int main()
 {
     char nombre[ ]=" ";
-    printf("escribe tu nombre=> ");
+    printf("\n escribe tu nombre: ");
     gets(nombre);
-    printf("bienvenid@ %s",nombre);
-    printf("hola amiguitos")
+    printf("\n bienvenid@ %s",nombre);
+    printf("\n hola amiguitos");
+    printf("≽^• ˕ • ྀི≼");
 }
