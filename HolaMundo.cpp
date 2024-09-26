@@ -10,4 +10,5 @@ int main()
     printf("\n bienvenid@ %s",nombre);
     printf("\n hola amiguitos");
     printf("≽^• ˕ • ྀི≼");
+    printf("\n Aaron god");
 }
